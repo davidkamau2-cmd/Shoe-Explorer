@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Shoe Explorer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="main-header">
+    <div class="header-left">
+      <label class="moon-toggle">
+        <input type="checkbox" id="themeToggle">
+        <span class="moon-slider"></span>
+      </label>
+    </div>
+    <h1>Shoe Explorer</h1>
+    <div class="header-right">
+      <button onclick="document.getElementById('contact').scrollIntoView({ behavior: 'smooth' })">
+        Contact Us
+      </button>
+    </div>
+  </header>
+
+  <main>
+    <input type="text" id="search" placeholder="Search by brand or model..." />
+
+    <section id="favoritesSection">
+      <h2>Favorites</h2>
+      <div class="shoe-grid" id="favoriteShoesContainer"></div>
+    </section>
+
+    <section id="shoppingSection">
+      <h2>Shopping Section</h2>
+      <div class="shoe-grid" id="shoeListContainer"></div>
+    </section>
+  </main>
+
+  <footer id="contact">
+    <h2>Contact Us</h2>
+    <p>WhatsApp: <a href="https://wa.me/your-number" target="_blank">+254 700 000000</a></p>
+    <p>Instagram: <a href="https://instagram.com/yourhandle" target="_blank">@yourhandle</a></p>
+    <p>Email: <a href="mailto:your@email.com">your@email.com</a></p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

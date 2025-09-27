@@ -1,0 +1,124 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "brand": "Nike",
+      "model": "Air Max 90",
+      "color": "White/Black",
+      "price": 22000,
+      "image": "images/Nike-air-max-90.jpg"
+    },
+    {
+      "id": 2,
+      "brand": "Adidas",
+      "model": "Spiderman Limited Edition",
+      "color": "Red and Black",
+      "price": 23500,
+      "image": "images/Adidas-spiderman.jpg"
+    },
+    {
+      "id": 3,
+      "brand": "Puma",
+      "model": "Harry Potter Limited Edition",
+      "color": "Brown and black",
+      "price": 25000,
+      "image": "images/Puma-harry-potter.jpg"
+    },
+    {
+      "id": 4,
+      "brand": "New Balance",
+      "model": "500 Classic",
+      "color": "Black",
+      "price": 7000,
+      "image": "images/New-balance-500.jpg"
+    },
+    {
+      "id": 5,
+      "brand": "Reebok",
+      "model": "Marvel Limited Edition",
+      "color": "Red and Blue",
+      "price": 9000,
+      "image": "images/Reebok-marvel.jpg"
+    },
+    {
+      "id": 6,
+      "brand": "Nike",
+      "model": "Air Jordan 1 Retro High",
+      "color": "Bred",
+      "price": 30000,
+      "image": "images/Nike-Air-Jordan.jpg"
+    },
+    {
+      "id": 7,
+      "brand": "Converse",
+      "model": "Chuck Taylor All Star",
+      "color": "Yellow / Black  / White / Green",
+      "price": 5000,
+      "image": "images/Converse-chuck-taylor.jpg"
+    },
+    {
+      "id": 8,
+      "brand": "Asics",
+      "model": "Gel-Nimbus Stefon Diggs Edition",
+      "color": "Grey",
+      "price": 100000,
+      "image": "images/Asics-Gel-nimbus.jpg"
+    },
+    {
+      "id": 9,
+      "brand": "Vans",
+      "model": "Old Skool",
+      "color": "Brown",
+      "price": 5500,
+      "image": "images/vans-old-skool-winterized.jpg"
+    },
+    {
+      "id": 10,
+      "brand": "Sketches",
+      "model": "Premium Edition",
+      "color": "Red",
+      "price": 35000,
+      "image": "images/Sketches-premium.jpeg"
+    },
+    {
+      "id": 11,
+      "brand": "Hoka One One",
+      "model": "Speedgoat Special Edition",
+      "color": "Triple White",
+      "price": 30000,
+      "image": "images/Hoka-one-one-speedgoat.jpg"
+    },
+    {
+      "id": 12,
+      "brand": "Under Armour",
+      "model": "Curry Flow 10",
+      "color": "Black / Red",
+      "price": 35000,
+      "image": "images/Under-armour-curry-flow-10.jpg"
+    },
+    {
+      "id": 13,
+      "brand": "Brooks",
+      "model": "Ghost 15",
+      "color": "Black and White",
+      "price": 35000,
+      "image": "images/Brooks-ghost-15.jpg"
+    },
+    {
+      "id": 14,
+      "brand": "Saucony",
+      "model": "Endorphin Speed 3",
+      "color": "Blue / Lime",
+      "price": 20000,
+      "image": "images/Saucony-endorphin-speed-3.jpg"
+    },
+    {
+      "id": 15,
+      "brand": "Fila",
+      "model": "Grant Hill 2",
+      "color": "Oreo",
+      "price": 30000,
+      "image": "images/Fila-grant-hill-2-oreo-sneakers.jpg"
+    }
+  ]
+}
