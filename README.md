@@ -19,3 +19,30 @@ You can use `git clone` to download the project files from GitHub.
 ```bash
 git clone https://github.com/your-username/shoe-explorer.git
 
+## live link
+shoe-explorer.netlify.app
+
+
+## Technologies Used
+
+HTML
+
+CSS
+
+JavaScript
+
+Git & GitHub
+
+JSON Server
+
+Netlify
+
+### Support and Contact Details
+
+GitHub
+davidkamau2-cmd
+
+## License
+
+The content of this site is licensed under the MIT license.
+Copyright (c) 2025.
