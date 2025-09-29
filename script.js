@@ -5,8 +5,9 @@ const searchInput = document.getElementById("search");
 let allShoes = [];
 let favorites = JSON.parse(localStorage.getItem("favorites")) || [];
 
+// ✅ FETCH FROM shoes.json INSTEAD OF localhost
 function fetchShoes() {
-  fetch("http://localhost:3000/shoes")
+  fetch("shoes.json")
     .then(res => res.json())
     .then(data => {
       allShoes = data;

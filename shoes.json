@@ -1,11 +1,10 @@
-{
-  "shoes": [
-    {
-      "id": 1,
-      "brand": "Nike",
-      "model": "Air Max 90",
-      "color": "White/Black",
-      "price": 22000,
+[
+  {
+    "id": 1,
+    "brand": "Nike",
+    "model": "Air Max 90",
+    "color": "White/Black",
+    "price": 22000,
       "image": "images/Nike-air-max-90.jpg"
     },
     {
@@ -121,4 +120,3 @@
       "image": "images/Fila-grant-hill-2-oreo-sneakers.jpg"
     }
   ]
-}
